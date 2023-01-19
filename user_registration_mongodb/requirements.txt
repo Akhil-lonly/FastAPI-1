@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+passlib
+bcrypt
+python-multipart
+pymongo
+pillow
+aiofiles
+pydantic
+psycopg2
